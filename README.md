@@ -1,1 +1,1 @@
-# My_js-project
+# javaScript-pro
